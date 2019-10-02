@@ -1,5 +1,9 @@
 import java.util.Scanner;
+/**
 
+ * @ Author : Sahas Bansal
+
+ */
 
 
 public class Ques2 {
